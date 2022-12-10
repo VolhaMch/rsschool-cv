@@ -21,8 +21,8 @@
 
 
 Initially, I graduated from the Belarusian State University with a master degree in History and Political science. 
-Having good command in English, strong soft skills and wide interest in international communication, I started my career in marketing department in a middle-size IT company.
-For now I have 3.5 years of experience working in these field, and my desire to deep in programming drives me to join Rolling Schools studies to dive into Frontend basics.
+Having good command in English, strong soft skills and wide interest in international communication, I started my career in marketing department in a mid-sized IT company.
+For now, I have 3.5 years of experience working in these field, and my desire to deep in programming drives me to join Rolling Schools studies to dive into Frontend basics.
 
 
 ***********
