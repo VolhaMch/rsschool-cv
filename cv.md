@@ -7,8 +7,8 @@
 ## Contact information
 
 
-* **Location**: Priluki, Minsk region, Belarus
-* **Phone**: +375296875896
+* **Location**: Minsk, Belarus
+* **Phone**: +3752968758**
 * **E-mail**: ramanchykhistfak@gmail.com
 * **GitHub**: VolhaMch
 * **LinkedIn**: [Volha Machys](https://www.linkedin.com/in/olga-romanchik)
@@ -31,7 +31,7 @@ For now, I have 3.5 years of experience working in these field, and my desire to
 ## Skills and Proficiency
 
 
-* _HTML5, CSS3_
+* _HTML5, _Photoshop, CSS3_
 * _JavaScript (basics)_
 * _Git, GitHub_
 * _Windows OS_
@@ -43,8 +43,7 @@ For now, I have 3.5 years of experience working in these field, and my desire to
 ## Languages
 
 
-* _Russian - native_
-* _Belarusian - fluent_
+* _Belarusian - native
 * _English - fluent_
 * _Polish - basic_
 * _German - basic_
