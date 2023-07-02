@@ -31,7 +31,8 @@ For now, I have 3.5 years of experience working in these field, and my desire to
 ## Skills and Proficiency
 
 
-* _HTML5, _Photoshop, CSS3_
+* _HTML5,  CSS3_
+* _Photoshop_
 * _JavaScript (basics)_
 * _Git, GitHub_
 * _Windows OS_
