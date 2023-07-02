@@ -44,7 +44,7 @@ For now, I have 3.5 years of experience working in these field, and my desire to
 ## Languages
 
 
-* _Belarusian - native
+* _Belarusian - native_
 * _English - fluent_
 * _Polish - basic_
 * _German - basic_
