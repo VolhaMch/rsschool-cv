@@ -1,2 +1,2 @@
-# rsschool-cv
-Volha Machys
+https://VolhaMch.github.io/rsschool-cv/cv
+https://VolhaMch.github.io/rsschool-cv/
